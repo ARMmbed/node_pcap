@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "nan": "^2.0.9",
-    "socketwatcher": "^0.3.0"
+    "socketwatcher": "https://github.com/tehcodedninja/node-socketwatcher"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
