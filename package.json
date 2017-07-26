@@ -31,6 +31,7 @@
     "should": "^5.0.0",
     "sinon": "^1.14.1"
   },
+  "gypfile": true,
   "scripts": {
     "test": "grunt"
   }
